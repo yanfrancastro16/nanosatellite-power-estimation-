@@ -21,3 +21,6 @@ The project focuses on the development and simulation of five orbital-model-base
    ```bash
    git clone https://github.com/yanfrancastro16/nanosatellite-power-estimation-.git
    cd nanosatellite-power-estimation-
+
+## License
+This repository is provided for academic and research purposes only. If you use this work or any part of the code, please cite the related publication.
