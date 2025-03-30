@@ -6,7 +6,7 @@ This repository contains the source code, simulation data, and documentation for
 
 ## Description
 
-The project focuses on the development and simulation of five orbital-model-based algorithms to estimate electrical power generation in 1U CubeSats in Low Earth Orbit (LEO). The models consider orbital position, solar vector, solar radiation incidence, sunlight and eclipse time duration, and the small satellite configuration to determine the electrical power generated from solar panel arrays.
+The project focuses on the development and simulation of five orbital-model-based algorithms to estimate electrical power generation in 1U CubeSats in Low Earth Orbit (LEO). The models consider orbital position, solar vector, solar radiation, temperature, sunlight and eclipse time duration, and the small satellite configuration to determine the electrical power generated from solar panel arrays.
 
 ## Contents
 
